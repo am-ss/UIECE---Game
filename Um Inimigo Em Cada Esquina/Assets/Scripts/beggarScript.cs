@@ -47,7 +47,7 @@ public class beggarScript : MonoBehaviour {
 			Destroy (gameObject);
 
 		}
-		print (timer);
+
 	}
 
 	void OnCollisionEnter2D(Collision2D col){

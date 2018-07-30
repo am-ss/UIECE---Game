@@ -26,7 +26,7 @@ GameObject:
   - component: {fileID: 70934351147333802}
   m_Layer: 0
   m_Name: Dog1
-  m_TagString: Untagged
+  m_TagString: Inimigo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -107,7 +107,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83cc5451fe2b89b4dbbc3e136423406c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocidade: 0
+  velocidade: 8
   timeLimit: 10
 --- !u!212 &212662480498826156
 SpriteRenderer:
